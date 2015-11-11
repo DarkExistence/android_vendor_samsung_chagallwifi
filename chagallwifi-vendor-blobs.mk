@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += \
 
 #Bluetooth firmware
 PRODUCT_COPY_FILES += \
-    vendor/samsung/chagallwifi/proprietary/vendor/firmware/bcm4350_V0301.0591.hcd:system/vendor/firmware/bcm4350_V0301.0591.hcd
+    vendor/samsung/chagallwifi/proprietary/vendor/firmware/bcm4350_V0301.0601.hcd:system/vendor/firmware/bcm4350_V0301.0601.hcd
 
 #WiFi - Firmware
 PRODUCT_COPY_FILES += \

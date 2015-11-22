@@ -17,5 +17,4 @@ $(call inherit-product, vendor/samsung/chagall-common/chagall-common-vendor.mk)
 
 DEVICE_PACKAGE_OVERLAYS := vendor/samsung/chagallwifi/overlay
 
-
 $(call inherit-product, vendor/samsung/chagallwifi/chagallwifi-vendor-blobs.mk)

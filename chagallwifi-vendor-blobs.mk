@@ -48,6 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/chagallwifi/proprietary/sbin/sswap:root/sbin/sswap
 
 #MediaDRM
-PRODUCT_COPY_FILES += \
+PRODUCT_COPY_FILES_NN += \
     vendor/samsung/chagallwifi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
 
